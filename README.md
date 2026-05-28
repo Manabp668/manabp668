@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey, I'm Manab Protim Hazarika</h1>
+<h1 align="center">👋 Hey, I'm Manab Protim</h1>
 
 <p align="center">
   Flutter & Full-Stack Developer &nbsp;·&nbsp; Founder @ <a href="https://protim.co.in">Protim</a> &nbsp;·&nbsp; Building from Assam, India 🇮🇳
@@ -61,14 +61,6 @@ A location-based community platform for Assam — post emergency alerts, find bl
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manabp668&show_icons=true&theme=default&hide_border=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manabp668&layout=compact&hide_border=true&theme=default" height="150" />
-</p>
-
----
 
 <p align="center">
   <sub>Open to freelance projects · Feel free to reach out 🙌</sub>
